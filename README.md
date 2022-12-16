@@ -1,3 +1,3 @@
-# ⭐ Horiseon Refactor
+# ⭐ Horiseon Refactor                       https://img.shields.io/github/issues/detail/state/goobber33/horiseon-refactor/3
 
 #### The purpose of this project is to refactor the HTML and CSS files to make them more readable and accessible. This project aims to help my understanding of HTML Semantics, and how to properly build a functional CSS. div, section, header, id, and aside. These are some semantic elements that I have come to understand during this project. It has been difficult for me to be able to understand the structure of a webpage, and this projhect has allowed me to view a section of code, study what needs to be changed to it, and be able to implement changes to crerate a functioning website. I took the time to properly comment within the HTML and CSS files, so that the code can easily be navigated and understood.
