@@ -15,10 +15,10 @@
 
 Screenshots of the website
 
-![top](assets/images/images-readme/top.png)
+![top](assets/images/images-readme/Top.png)
 
-![middle](assets/images/images-readme/middle.png)
+![middle](assets/images/images-readme/Middle.png)
 
-![bottom](assets/images/images-readme/bottom.png)
+![bottom](assets/images/images-readme/Bottom.png)
 
 # Credits
