@@ -13,13 +13,12 @@
 
 ![HTML](assets/images/images-readme/html.png)
 
+Screenshots of the website
 
-#### A screenshot of the website
+![top](assets/images/images-readme/Site%20top.png)
 
-![top](assets/images/images-readme/top.png)
+![middle](assets/images/images-readme/Site%20middle.png)
 
-![middle](assets/images/images-readme/middle.png)
-
-![bottom](assets/images/images-readme/bottom.png)
+![bottom](assets/images/images-readme/Site%20bottom.png)
 
 # Credits
