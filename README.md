@@ -7,7 +7,9 @@
 
 # Usage
 
-![CSS](assets/images/images for readme/css.png)
+![CSS](assets/images/images-readme/css.png)
+
+![HTML](assets/images/images-readme/html.png)
 
 #### A screenshot of some sections of code from my HTML and CSS for this project.
 
