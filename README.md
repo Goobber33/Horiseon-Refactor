@@ -7,12 +7,19 @@
 
 # Usage
 
+#### A screenshot of some sections of code from my HTML and CSS for this project.
+
 ![CSS](assets/images/images-readme/css.png)
 
 ![HTML](assets/images/images-readme/html.png)
 
-#### A screenshot of some sections of code from my HTML and CSS for this project.
 
 #### A screenshot of the website
+
+![top](assets/images/images-readme/top.png)
+
+![middle](assets/images/images-readme/middle.png)
+
+![bottom](assets/images/images-readme/bottom.png)
 
 # Credits
