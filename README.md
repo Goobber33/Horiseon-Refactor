@@ -22,3 +22,5 @@ Screenshots of the website
 ![bottom](assets/images/images-readme/Bottom.png)
 
 # Credits
+
+The original code was from Xandromus from the University of Washington's coding bootcamp.
