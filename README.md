@@ -6,9 +6,13 @@
 
 https://goobber33.github.io/Horiseon-Refactor/#social-media-marketing
 
+# Installation
+
+Install the index.html, style.css and the images folder and run it in your own IDE. 
+
 # Usage
 
- A screenshot of some sections of code from my HTML and CSS for this project.
+ A screenshot of some sections of code from my HTML and CSS for this project. The website should resemble this screenshot when deployed.
 
 ![CSS](assets/images/images-readme/css.png)
 
